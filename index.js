@@ -21,7 +21,7 @@ app.listen(PORT, () =>
 ////////////////////////////////////////////////////////////////////////
 
 // GET 		/users 		finds all users
-// POST 	/users		 creates a user
+// POST 	/users		 create-user
 // GET	 	/users/:id	 find user details
 // DELETE /users/:id 	deletes a user
 // PATCH  /users/:id 	updates a user
